@@ -23,27 +23,17 @@ form handling.
 - Tailwind CSS
 - shadcn/ui
 
-## Folder Structure
-src/
-components/
-sections/
-ui/
-hooks/
-lib/
-pages/
-public/
-images/
-logos/
-
 ## Getting Started
 
 Install dependencies:
 
-npm install
-
+```bash
+npm install #Install dependencies
+```
 Run the development server:
-
+```bash
 npm run dev
+```
 
 The app will be available at:
 
