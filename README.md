@@ -39,6 +39,7 @@ The app will be available at:
 
 ```bash
 https://skillbreage.netlify.app
+```
 
 ## Demo Disclaimer
 This is a **frontend-only demo landing page**.  
