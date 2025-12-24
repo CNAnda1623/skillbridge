@@ -97,7 +97,7 @@ const StatsSection = () => {
             <h2 className="text-4xl md:text-5xl lg:text-6xl font-display font-bold text-foreground leading-tight">
               Join The<br />
               Community Of<br />
-              <span className="text-gradient">Millions</span>
+              <span className="text-gradient">Thousands</span>
             </h2>
 
             <Button variant="hero" size="lg">

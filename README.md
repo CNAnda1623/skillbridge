@@ -37,7 +37,8 @@ npm run dev #Start development server
 
 The app will be available at:
 
-...
+```bash
+https://skillbreage.netlify.app
 
 ## Demo Disclaimer
 This is a **frontend-only demo landing page**.  
@@ -46,6 +47,3 @@ for UI and layout demonstration purposes only.
 
 ## Project Status
 Frontend landing page completed. No backend or API integration is included.
-
-## Author
-Built by <your-name>
