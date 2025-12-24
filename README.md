@@ -1,4 +1,4 @@
-# Project for my Internship Assignment
+# Project for Internship Assignment
 
 # SkillBridge – Internship & Community Platform
 
