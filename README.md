@@ -32,7 +32,7 @@ npm install #Install dependencies
 ```
 Run the development server:
 ```bash
-npm run dev
+npm run dev #Start development server
 ```
 
 The app will be available at:
